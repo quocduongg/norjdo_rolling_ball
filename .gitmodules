@@ -1,0 +1,3 @@
+[submodule "Assets/module_framework"]
+	path = Assets/module_framework
+	url = git@github.com:quocduongg/module_framework.git
